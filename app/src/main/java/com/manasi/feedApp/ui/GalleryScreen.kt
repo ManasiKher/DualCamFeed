@@ -1,5 +1,6 @@
 package com.manasi.feedApp.ui
 
+import android.content.ContentUris
 import android.content.Context
 import android.net.Uri
 import android.provider.MediaStore
