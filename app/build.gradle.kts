@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.manasi.example.dualcameraapp"
+    namespace = "com.manasi.feedApp"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.manasi.example.dualcameraapp"
+        applicationId = "com.manasi.feedApp"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

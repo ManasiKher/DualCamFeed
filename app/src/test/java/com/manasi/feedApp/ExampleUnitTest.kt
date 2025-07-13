@@ -1,4 +1,4 @@
-package com.manasi.example.dualcameraapp
+package com.manasi.feedApp
 
 import org.junit.Test
 
